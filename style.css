@@ -86,3 +86,9 @@ footer p {
 a{
     text-decoration: none;
 }
+
+@media (device-width = "600px") {
+    .content{
+        width: 100%;
+    }
+}
